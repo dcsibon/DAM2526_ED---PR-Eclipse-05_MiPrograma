@@ -36,20 +36,21 @@ El alumno deberá **analizar, comentar y documentar** el código a partir de su 
 
 #### 3️⃣ Importar el archivo `MiPrograma.java`
 
-1. Clic derecho sobre el paquete `tema2_debug` → `Import...`
-2. En la ventana de importación, selecciona:
+1. Descarga el fichero `MiPrograma.java` que se encuentra en este repositorio.
+2. Clic derecho sobre el paquete `tema2_debug` → `Import...`
+3. En la ventana de importación, selecciona:
 
    ```
    General → File System → Next
    ```
-3. En **From directory**, selecciona la carpeta:
+4. En **From directory**, selecciona la carpeta:
 
    ```
    Descargas
    ```
 
    (donde se encuentra `MiPrograma.java`)
-4. Marca el archivo `MiPrograma.java` y pulsa **Finish**.
+5. Marca el archivo `MiPrograma.java` y pulsa **Finish**.
 
 💡 Ahora el archivo debe aparecer dentro del paquete `tema2_debug` en el panel **Package Explorer**.
 
