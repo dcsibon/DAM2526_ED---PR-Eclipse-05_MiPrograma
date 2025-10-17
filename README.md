@@ -104,6 +104,3 @@ Debes **ubicar estos comentarios en las líneas del código correspondientes**, 
 * NO TIENE ENTREGA, vamos a corregirlo entre todos en clase.
 
 ---
-
-¿Quieres que te añada también el contenido del fichero `MiPrograma.java` que les vas a entregar (con los comentarios eliminados y preparado para depurar)?
-Así te dejo todo el material completo de la práctica: PDF + código fuente para compartir.
