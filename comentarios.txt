@@ -1,0 +1,5 @@
+// Controla si el número introducido es válido 
+
+// Pedir un número válido (entre 1 y 20) 
+
+// Mostrar la tabla de multiplicar del número indicado
