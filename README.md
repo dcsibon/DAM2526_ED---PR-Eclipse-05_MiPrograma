@@ -1,5 +1,5 @@
 
-## **PRÁCTICA 5 – Análisis de mi programa**
+## **Actividad de clase – Análisis de mi programa**
 
 ### 🎯 **Objetivo de la práctica**
 
